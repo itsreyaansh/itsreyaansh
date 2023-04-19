@@ -35,4 +35,4 @@
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&amp;logo=Windows%2011&amp;logoColor=white" alt="Windows 11"></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdj0261&amp;theme=transparent" alt="rjdj0261' top languages"></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=rjdj0261&amp;count_private=true&amp;show_icons=true&amp;theme=transparent" alt="rjdj0261&#39;s github stats"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjdj0261&" alt="rjdj0261" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjdj0261&theme=transparent" alt="rjdj0261" /></p>
