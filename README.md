@@ -24,8 +24,7 @@
 <p><a href="https://www.sololearn.com/profile/19009450"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&amp;logo=Sololearn&amp;logoColor=white" alt="Sololearn"></a></p>
 <p><a href="https://twitter.com/rjdj0261"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a></p>
 <h2 id="-operating-systems">💻 Operating Systems</h2>
-<p><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android"></p>
-<p><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&amp;logoColor=fff&amp;style=for-the-badge" alt="Arch"></p>
+<p><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&amp;logo=android&amp;logoColor=white" alt="Android"> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&amp;logoColor=fff&amp;style=for-the-badge" alt="Arch"></p>
 <p><img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&amp;logo=debian&amp;logoColor=white" alt="Debian"></p>
 <p><img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali"></p>
 <p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux"></p>
