@@ -7,7 +7,7 @@
 <p>💬 Ask me about Maths, Anime, Science, Python and Space</p>
 <p>📫 You can reach me at my mail jhaverireyaansh15@gmail.com</p>
 <p>😄 Pronouns He/Him</p>
-<p>👨‍🎓 Studying in XI Science</p>
+<p>👨‍🎓 Studying in BE Computer Engineering</p>
 <p>📍 From Surat, Gujarat, India</p>
 <p>⚡️ Fun fact I love Sports and Fitness</p>
 <p>📄 Know about my experiences <a href="https://resume.io/r/MkiC078px">https://resume.io/r/MkiC078px</a></p>
