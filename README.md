@@ -33,7 +33,7 @@
 <p><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" alt="Ubuntu">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&amp;logo=Windows%2011&amp;logoColor=white" alt="Windows 11"></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjdj0261&amp;theme=transparent" alt="rjdj0261' top languages"></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=rjdj0261&amp;count_private=true&amp;show_icons=true&amp;theme=transparent" alt="rjdj0261&#39;s github stats"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rjdj0261&theme=transparent" alt="rjdj0261" /></p>
-<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rjdj0261&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsreyaansh&amp;theme=transparent" alt="itsreyaansh' top languages"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=itsreyaansh&amp;count_private=true&amp;show_icons=true&amp;theme=transparent" alt="rjdj0261&#39;s github stats"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsreyaansh&theme=transparent" alt="itsreyaansh" /></p>
+<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsreyaansh&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/></p>
