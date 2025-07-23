@@ -36,4 +36,3 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsreyaansh&amp;theme=transparent" alt="itsreyaansh' top languages"></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=itsreyaansh&amp;count_private=true&amp;show_icons=true&amp;theme=transparent" alt="rjdj0261&#39;s github stats"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsreyaansh&theme=transparent" alt="itsreyaansh" /></p>
-<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsreyaansh&area_color=5bcdec&point=ff897a&color=5bcdec&line=5bcdec&bg_color=0d1117&hide_border=true" width="100%"/></p>
