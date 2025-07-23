@@ -2,7 +2,7 @@
 <h2 id="about-me">About Me</h2>
 <p>👩‍💻 I&#39;m currently working on Link Shortener Discord Bot Shorty</p>
 <p>🧠 I&#39;m currently learning Javascript &amp; C/C++</p>
-<p>👯‍♀️ I&#39;m looking to collaborate on python projects related to maths and discord</p>
+<p>🤝🏻 I&#39;m looking to collaborate on python projects related to maths and discord</p>
 <p>🤔 I&#39;m looking for help with C/C++</p>
 <p>💬 Ask me about Maths, Anime, Science, Python and Space</p>
 <p>📫 You can reach me at my mail jhaverireyaansh15@gmail.com</p>
@@ -13,7 +13,7 @@
 <p>📄 Know about my experiences <a href="https://resume.io/r/MkiC078px">https://resume.io/r/MkiC078px</a></p>
 <h2 id="-tech-i-use">👨‍💻️ Tech I Use</h2>
 <p>💻 Lenovo Ideapad Slim 3 Ryzen 5 8 GB</p>
-<p>📱 Vivo Y83 4GB/64 GB</p>
+<p>📱 Realme 11x 5G 6+6GB/128GB</p>
 <h2 id="-skills">🛠 Skills</h2>
 <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css,py,discord,heroku,instagram,java,linux,redis&amp;theme=dark&amp;perline=5" alt="My Skills"></a></p>
 <h2 id="-links">🔗 Links</h2>
